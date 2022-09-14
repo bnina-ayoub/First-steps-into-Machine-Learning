@@ -10,15 +10,15 @@ Steps :
 
 3. In order to predict house prices I :
 
-  - Applied linear regression
+    - Applied linear regression
 
-  - Plotted the linear regression.  
+    - Plotted the linear regression.  
 
-  - Applied multiple-linear regression. 
+    - Applied multiple-linear regression. 
 
-  - Applied polynomial regression.
+    - Applied polynomial regression.
 
-  - Measured the performance of each model.
+    - Measured the performance of each model.
 
 
 
@@ -32,8 +32,8 @@ Goal : Predict if a passenger will survive or not.
 
 3. In order to predict if a passenger will survive or not I :
 
-  - Applied logistic regression to predict house prices. 
+    - Applied logistic regression to predict house prices. 
 
-  - Plotted the linear regression. 
+    - Plotted the linear regression. 
 
-  - Measured the performance of the model. 
+    - Measured the performance of the model. 
